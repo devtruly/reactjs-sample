@@ -15,17 +15,13 @@ class BusinessList extends Component {
             scrollClass: "",
             scrollSet: false,
             businessCategory: {
-                first: "PnJoying사업소개",
                 disclaimer: "면책 사항",
                 purpose: "사업배경 및 목적",
                 reason: "사업 이유",
                 summary: "사업 개요",
                 why: "왜? 지금인가?",
                 targetMarket: "목표 시장",
-                // differentiated: "차별화 전략",
                 salesGoal: "매출 목표",
-                teamInfo: "PnJoying 팀 소개",
-                // vision: "비전",
                 thankYou: "감사말",
             }
         };
