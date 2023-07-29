@@ -25,7 +25,7 @@ class Footer extends Component {
                         </div>
                     </div>
                 </div>
-                <p>&copy; PnJoying Corp. ALL RIGHTS RESERVED.</p>
+                <p>ALL RIGHTS RESERVED.</p>
             </footer>
         );
     }
