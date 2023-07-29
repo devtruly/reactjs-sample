@@ -13,15 +13,15 @@ class Footer extends Component {
                 <div className="ft_p">
                     <div>
                         <div>
-                            <span style={{fontWeight:"bold"}}>핀조잉(주)</span>
+                            <span style={{fontWeight:"bold"}}></span>
                         </div>
                         <div>
                             <span>사업자등록번호 : 000-00-0000</span>
-                            <span>대표 : 한영민</span>
+                            <span></span>
 
                         </div>
                         <div>
-                            <span>주소 : 서울시 양천구</span>
+                            <span></span>
                         </div>
                     </div>
                 </div>
